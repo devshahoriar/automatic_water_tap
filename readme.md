@@ -131,17 +131,11 @@ During testing, ensure the following:
 
 First Test
 
-
-<video controls="" width="800" height="500" muted="" loop="" autoplay="1">
-<source src="https://raw.githubusercontent.com/devshahoriar/automatic_water_tap/refs/heads/main/initial_test.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/3ee2aa59-2dc6-44c0-9c18-3957cd60e0c8
 
 Test Video
 
-
-<video controls="" width="800" height="500" muted="" loop="" autoplay="1">
-<source src="https://raw.githubusercontent.com/devshahoriar/automatic_water_tap/refs/heads/main/test_video.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/9b437a24-7118-419c-9326-06158ff03425
 
 Initial Project
 
