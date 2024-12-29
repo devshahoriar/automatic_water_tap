@@ -131,11 +131,12 @@ During testing, ensure the following:
 
 First Test
 
-![First Test](./initial_test.mp4)  
+![First Test](https://raw.githubusercontent.com/devshahoriar/automatic_water_tap/refs/heads/main/initial_test.mp4)  
 
-Test Vidio
 
-![Test Vidio](./test_video.mp4)
+Test Video
+
+![Test Video](https://raw.githubusercontent.com/devshahoriar/automatic_water_tap/refs/heads/main/test_video.mp4)
 
 Initial Project
 
